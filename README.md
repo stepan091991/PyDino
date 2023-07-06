@@ -12,7 +12,7 @@
 6.requests  
 7.os  
 Для запуска 2 версии игры нужны такие модули как: 
-1. Pygame
-2. random
-3. time
+1.Pygame
+2.random
+3.time
 Для начала игры запустить main.py файл.
