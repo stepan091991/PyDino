@@ -4,15 +4,15 @@
 из за этого я смог добавить больше визуальных эффектов и пофиксить  баги.
 Для игры можно скачать нужную вам версию(1 версия в sources, 2 версия в PyDinoV2.0PGame) и утановить недостающие модули.
 Для запуска 1 версии игры нужны такие модули как:  
-1.tkinter  
-2.random  
-3.PIL(pillow)  
-4.threading  
-5.winsound  
-6.requests  
-7.os  
+1. tkinter  
+2. random  
+3. PIL(pillow)  
+4. threading  
+5. winsound  
+6. requests  
+7. os  
 Для запуска 2 версии игры нужны такие модули как: 
-1.Pygame
-2.random
-3.time
+1. Pygame
+2. random
+3. time
 Для начала игры запустить main.py файл.
